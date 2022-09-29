@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contacts>
+    <contact>
+        <Last_name>Arshavin</Last_name>
+        <Name>Ivan</Name>
+        <Phone_number>89219186235</Phone_number>
+        <Info>worker</Info>
+    </contact>
+    <contact>
+        <Last_name>Semenov</Last_name>
+        <Name>Piotr</Name>
+        <Phone_number>33809186235</Phone_number>
+        <Info>homeless</Info>
+    </contact>
+    <contact>
+        <Last_name>Sidorova</Last_name>
+        <Name>Uliana</Name>
+        <Phone_number>12345678912</Phone_number>
+        <Info>stalker </Info>
+    </contact>
+    <contact>
+        <Last_name>Perviy</Last_name>
+        <Name>Piotr</Name>
+        <Phone_number>96218547788</Phone_number>
+        <Info>king</Info>
+    </contact>
+    <contact>
+        <Last_name>Next</Last_name>
+        <Name>Albert</Name>
+        <Phone_number>49181234568</Phone_number>
+        <Info>Boss</Info>
+    </contact>
+</contacts>
